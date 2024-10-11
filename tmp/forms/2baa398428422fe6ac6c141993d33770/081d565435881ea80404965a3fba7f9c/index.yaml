@@ -1,0 +1,102 @@
+form: flex-pages
+id: 'tmp://forms/session/081d565435881ea80404965a3fba7f9c'
+unique_id: 081d565435881ea80404965a3fba7f9c
+url: 'http://maher.ddns.berlin:5000/admin/pages/home/_kowi'
+user:
+  username: admin
+  email: illumi420@gmail.com
+timestamps:
+  created: 1727207633
+  updated: 1727207633
+data:
+  header:
+    title: KoWi
+    media_order: null
+    image_align: left
+    body_classes: modular
+    process:
+      markdown: true
+      twig: true
+    order_by: null
+    order_manual: null
+    access:
+      site.login: true
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    redirect_default_route: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: '# Kommune Wilmersdorf e.V.'
+  folder: kowi
+  route: /
+  name: modular/text
+  ordering: true
+  order: kowi
+  blueprint: null
+  lang: null
+  xss_check: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: home/_kowi
+  storage_key: 01.home/01._kowi
+  timestamp: 1727207576
+  serialized:
+    __META:
+      key: home/_kowi
+      storage_key: 01.home/01._kowi
+      template: text
+      storage_timestamp: 1727207576
+      markdown:
+        '': { text: 1727207576 }
+      checksum: aed19f3133a10862c675e2d93c6a8172
+    storage_key: 01.home/01._kowi
+    parent_key: 01.home
+    order: '01.'
+    folder: _kowi
+    template: text
+    lang: ''
+    header:
+      title: KoWi
+      body_classes: modular
+      image_align: left
+      process:
+        markdown: true
+        twig: true
+      login:
+        visibility_requires_access: true
+      access:
+        site.login: true
+    root: false
+    frontmatter: "title: KoWi\nbody_classes: modular\nimage_align: left\nprocess:\n    markdown: true\n    twig: true\nlogin:\n    visibility_requires_access: true\naccess:\n    site.login: true"
+    markdown: '# Kommune Wilmersdorf e.V.'
+    slug: _kowi
+    name: text.md

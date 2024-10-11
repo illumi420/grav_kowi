@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1727204051
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1727204051
+    key: admin
+    email: illumi420@gmail.com
